@@ -32,7 +32,7 @@ I am constantly trying to improve my data science and programming skills which m
   <img width="12" />
   <a href="https://apptainer.org/" title="Apptainer"><img src="https://github.com/apptainer/apptainer-logos/blob/main/PNG/Apptainer_icon_clr_S.png" height="40" alt="apptainer logo"/></a>
   <img width="12" />
-  <a href="https://www.docker.com" title="Docker"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  /></a>
+  <a href="https://www.docker.com" title="Docker"><img src="README_icons/docker.png" height="40" alt="docker logo"  /></a>
   <img width="12" />
   <a href="https://posit.co/products/open-source/rstudio" title="RStudio"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo"  /></a>
   <img width="12" />
