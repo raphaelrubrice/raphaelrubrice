@@ -58,7 +58,7 @@ I am constantly trying to improve my data science and programming skills which m
 ###
 ###
 
-<h3 align="left">🧪⌨️Current projects:</h4>
+<h3 align="left">🧪⌨️Current projects :</h4>
 
 ###
 
@@ -67,7 +67,7 @@ I am constantly trying to improve my data science and programming skills which m
 
 ###
 ###
-<h2 align="left">📫Contacts:</h4>
+<h2 align="left">📫Contacts :</h4>
 
 ###
 
