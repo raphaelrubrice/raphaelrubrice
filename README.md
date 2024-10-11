@@ -13,7 +13,7 @@ I am constantly trying to improve my data science and programming skills which m
 
 ###
 
-<a href="https://www.linkedin.com/in/raphaël-rubrice" title="My LinkedIn Profile"><img src="https://cdn.simpleicons.org/linkedn/0A66C2/" height="40" width="12" alt="linkedin logo" /></a>
+<a href="https://www.linkedin.com/in/raphaël-rubrice" title="My LinkedIn Profile"><img src="https://cdn.simpleicons.org/linkedin/0A66C2/" height="40" width="12" alt="linkedin logo" /></a>
 <a href="mailto:raphael.rubrice@outlook.com" title="My email"><img src="README_icons/outlook.png" height="40" width="12" alt="outlook logo" /></a>
 
 ###
