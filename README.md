@@ -17,7 +17,7 @@ I am constantly trying to improve my data science and programming skills which m
   <img width="12" />
   <a href="https://www.apple.com" title="macOS"><img src="https://cdn.simpleicons.org/apple/000000" height="40" alt="apple logo"  /></a>
 </div>
-
+<br>
 ###
 
 <h4 align="left">🧰📊What I use to contribute to projects :</h4>
@@ -43,7 +43,7 @@ I am constantly trying to improve my data science and programming skills which m
   <img width="12" />
   <a href="https://www.latex-project.org" title="LaTeX"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" alt="latex logo"  /></a>
 </div>
-
+<br>
 ###
 
 <h4 align="left">💻📚Programming Languages :</h4>
@@ -55,12 +55,12 @@ I am constantly trying to improve my data science and programming skills which m
   <img width="12" />
   <a href="https://www.gnu.org/software/bash/" title="Bash"><img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  /></a>
 </div>
-
+<br>
 
 ###
 ###
 
-<h2 align="left">🧪⌨️Current projects:</h4>
+<h3 align="left">🧪⌨️Current projects:</h4>
 
 ###
 
