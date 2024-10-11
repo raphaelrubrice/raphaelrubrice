@@ -14,7 +14,7 @@ I am constantly trying to improve my data science and programming skills which m
 ###
 
 <a href="https://www.linkedin.com/in/raphaël-rubrice" title="My LinkedIn Profile"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo" /></a>
-<a href="mailto:raphael.rubrice@outlook.com" title="My email"><img src="README_icons/outlook.png" height="40" width="12" alt="outlook logo" /></a>
+<a href="mailto:raphael.rubrice@outlook.com" title="My email"><img src="README_icons/outlook.png" height="40" alt="outlook logo" /></a>
 
 ###
 
