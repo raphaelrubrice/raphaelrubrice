@@ -2,7 +2,7 @@
 
 ###
 
-I'm deeply interested in the potential of AI in Biology and Health aswell as in Bioinformatics.
+I'm deeply interested in the potential of AI in Biology and Health. I also have a keen interest for Bioinformatics.
 I've always been drawn to the intersection of computational methods with biological questions and challenges.<br><br>
 Currently following a Master 2 in Artificial Intelligence and Computational Biology at [Paris-Saclay University](https://www.universite-paris-saclay.fr/en/) and [AgroParisTech Engineering School](https://www.agroparistech.fr/en), my thirst for new knowledge and skills is stronger than ever !<br><br>
 I've worked on a research project aimed at using Machine Learning to predict bacterial biofilm antagonism and more recently on a tool for Transposable Elements Locus Level Analysis ([TELLAM](https://github.com/Aelrach/TELLAM)).
