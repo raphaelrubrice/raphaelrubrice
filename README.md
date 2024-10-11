@@ -9,15 +9,6 @@ I am constantly trying to improve my data science and programming skills which m
 
 ###
 
-<h4 align="left">📫Contacts:</h4>
-
-###
-
-<a href="https://www.linkedin.com/in/raphaël-rubrice" title="My LinkedIn Profile"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo" /></a>
-<a href="mailto:raphael.rubrice@outlook.com" title="My email"><img src="README_icons/outlook.png" height="40" alt="outlook logo" /></a>
-
-###
-
 <h4 align="left">💻Operating Systems I've worked with :</h4>
 
 ###
@@ -69,6 +60,15 @@ I am constantly trying to improve my data science and programming skills which m
   <img width="12" />
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
 </div>
+
+###
+
+<h4 align="left">📫Contacts:</h4>
+
+###
+
+<a href="https://www.linkedin.com/in/raphaël-rubrice" title="My LinkedIn Profile"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo" /></a>
+<a href="mailto:raphael.rubrice@outlook.com" title="My email"><img src="README_icons/outlook.png" height="40" alt="outlook logo" /></a>
 
 ###
 
