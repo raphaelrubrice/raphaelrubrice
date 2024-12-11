@@ -63,8 +63,8 @@ I am constantly trying to improve my data science and programming skills which m
 <h3 align="left">🧪⌨️Current projects :</h4>
 
 ###
-- Working on a project to leverage LLMs for better animal food nutritive value prediction.
-- Writing a paper
+- Working on a project to leverage LLMs for better animal food nutritive value prediction
+- Writing a paper on MAchine Learning application for bacterial biofilm antagonism prediction
 - Nextflow pipeline to reproduce some results shown in : https://doi.org/10.1038/s41467-020-15966-7
 - Improving TELLAM
 - Improving my Biofilm Simulator
