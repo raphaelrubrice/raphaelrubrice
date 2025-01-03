@@ -61,6 +61,7 @@ I am constantly trying to improve my data science and programming skills which m
 <h3 align="left">🧪⌨️Current projects :</h4>
 
 ###
+- Currently enrolled in a datacamp challenge from Ecole Polytechnique as part of my Master2 program.
 - Working on a project to leverage LLMs for better animal food nutritive value prediction
 - Writing a paper on Machine Learning application for bacterial biofilm antagonism prediction
 - Nextflow pipeline to reproduce some results shown in : https://doi.org/10.1038/s41467-020-15966-7
