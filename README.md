@@ -5,8 +5,11 @@
 I'm deeply interested in the potential of AI in Biology and Health. I also have a keen interest for Bioinformatics.
 I've always been drawn to the intersection of computational methods with biological questions and challenges.<br><br>
 Currently following a Master 2 in Artificial Intelligence and Computational Biology at [Paris-Saclay University](https://www.universite-paris-saclay.fr/en/) and [AgroParisTech Engineering School](https://www.agroparistech.fr/en), my thirst for new knowledge and skills is stronger than ever !<br><br>
-I've worked on a research project aimed at using Machine Learning to predict bacterial biofilm antagonism and more recently, I've created a tool for Transposable Elements Locus Level Analysis ([TELLAM](https://github.com/Aelrach/TELLAM)).
 I am constantly trying to improve my data science and programming skills which make me eager to contribute to impactful and ground-breaking projects involving AI and/or Bioinformatics.
+I am fascinated by these research fields (lot of work ahead to truly get there though 🤓):
+- AI powered Virtual Cells
+- Multi-Modal Representation Learning
+- Causality
 
 <h4 align="left">💻Operating Systems I've worked with :</h4>
 
