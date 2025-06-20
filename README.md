@@ -61,13 +61,20 @@ I am constantly trying to improve my data science and programming skills which m
 <h3 align="left">🧪⌨️Current projects :</h4>
 
 ###
-- Currently enrolled in a datacamp challenge from Ecole Polytechnique as part of my Master2 program.
-- Working on a project to leverage LLMs for better animal food nutritive value prediction
-- Writing a paper on Machine Learning application for bacterial biofilm antagonism prediction
-- Improving TELLAM
-- Improving my Biofilm Simulator
+- Following reviewers' recommendations for my paper on a Machine Learning model for bacterial biofilm antagonism prediction
+- Working on my internship project at Dassault Systèmes
 
 ###
+###
+
+<h3 align="left">🤓😁Cool stuff :</h4>
+
+###
+- Gave a presentation at the Micalis Institute on the work I've done on the biofilm antagonism prediction model
+- With a few friends from AgroParisTech, we won the AI Methodology Award at the 2025 Owkin & Servier AI Hackathon for Glioblastoma Research
+- Our main project of the year during IODAA got accepted for presentation at the 1st AI for Animal Science Conference at ETH Zurich (2025)
+- Got an internship at Dassault Systèmes, the topic ? Explainable clustering for clinical data
+
 ###
 <h2 align="left">📫Contacts :</h4>
 
