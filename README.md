@@ -61,15 +61,6 @@ I am fascinated by these research fields (lot of work ahead to truly get there t
 ###
 ###
 
-<h3 align="left">🧪⌨️Current projects :</h4>
-
-###
-- Following reviewers' recommendations for my paper on a Machine Learning model for bacterial biofilm antagonism prediction
-- Working on my internship project at Dassault Systèmes
-
-###
-###
-
 <h3 align="left">🤓😁Cool stuff :</h4>
 
 ###
@@ -79,6 +70,16 @@ I am fascinated by these research fields (lot of work ahead to truly get there t
 - Got an internship at Dassault Systèmes, the topic ? Explainable clustering for clinical data
 
 ###
+###
+
+<h3 align="left">🧪⌨️Current projects :</h4>
+
+###
+- Following reviewers' recommendations for my paper on a Machine Learning model for bacterial biofilm antagonism prediction
+- Working on my internship project at Dassault Systèmes
+
+###
+
 <h2 align="left">📫Contacts :</h4>
 
 ###
