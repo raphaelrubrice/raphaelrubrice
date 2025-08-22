@@ -64,11 +64,13 @@ I am fascinated by these research fields (lot of work ahead to truly get there t
 <h3 align="left">🤓😁Cool stuff :</h4>
 
 ###
-- Gave a presentation at the Micalis Institute on the work I've done on the biofilm antagonism prediction model
-- With a few friends from AgroParisTech, we won the AI Methodology Award at the 2025 Owkin & Servier AI Hackathon for Glioblastoma Research
-- Our main project of the year during IODAA got accepted for presentation at the 1st AI for Animal Science Conference at ETH Zurich (2025)
+- Got accepted into ENS Paris-Saclay's MVA coursework (really excited)
 - Published in the Journal Artificial Intelligence in the Life Sciences : [A machine learning framework for the prediction and analysis of bacterial antagonism in biofilms using morphological descriptors](https://www.sciencedirect.com/science/article/pii/S2667318525000133?via%3Dihub)
 - Got an internship at Dassault Systèmes, the topic ? Explainable clustering for clinical data
+- Our main project of the year during IODAA got accepted for presentation at the 1st AI for Animal Science Conference at ETH Zurich (2025)
+- With a few friends from AgroParisTech, we won the AI Methodology Award at the 2025 Owkin & Servier AI Hackathon for Glioblastoma Research
+- Gave a presentation at the Micalis Institute on the work I've done on the biofilm antagonism prediction model
+
 
 ###
 ###
@@ -76,8 +78,8 @@ I am fascinated by these research fields (lot of work ahead to truly get there t
 <h3 align="left">🧪⌨️Current projects :</h4>
 
 ###
-- Working on my internship project at Dassault Systèmes
 - Working on the [2025 Virtual Cell Challenge](https://virtualcellchallenge.org/app)
+- Working on my internship project at Dassault Systèmes
 
 ###
 
