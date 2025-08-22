@@ -31,8 +31,6 @@ I am fascinated by these research fields (lot of work ahead to truly get there t
   <img width="12" />
   <a href="https://github.com" title="GitHub"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  /></a>
   <img width="12" />
-  <a href="https://www.nextflow.io" title="Nextflow"><img src="https://github.com/nextflow-io/trademark/blob/master/nextflow-icon.png" height="40" alt="nextflow logo"  /></a>
-  <img width="12" />
   <a href="https://www.docker.com" title="Docker"><img src="README_icons/docker.png" height="40" alt="docker logo"  /></a>
   <img width="12" />
   <a href="https://posit.co/products/open-source/rstudio" title="RStudio"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo"  /></a>
@@ -51,6 +49,8 @@ I am fascinated by these research fields (lot of work ahead to truly get there t
 
 <div align="left">
   <a href="https://www.python.org" title="Python"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  /></a>
+  <img width="12" />
+  <a href="https://www.nextflow.io" title="Nextflow"><img src="https://github.com/nextflow-io/trademark/blob/master/nextflow-icon.png" height="40" alt="nextflow logo"  /></a>
   <img width="12" />
   <a href="https://posit.co/products/open-source/rstudio" title="R"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo"  /></a>
   <img width="12" />
