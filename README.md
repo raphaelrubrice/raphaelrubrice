@@ -81,8 +81,8 @@ I am fascinated by these research fields (lot of work ahead to truly get there t
 <h3 align="left">🧪⌨️Current projects :</h4>
 
 ###
+- Working on classes and projects for the MVA coursework (trying to level up as much as I can hehe)
 - Working on the [2025 Virtual Cell Challenge](https://virtualcellchallenge.org/app)
-- Working on my internship project at Dassault Systèmes
 
 ###
 
