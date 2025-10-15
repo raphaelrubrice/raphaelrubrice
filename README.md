@@ -71,6 +71,15 @@ I am fascinated by these research fields (lot of work ahead to truly get there t
 ###
 ###
 
+<h3 align="left">🧪⌨️Current projects :</h4>
+
+###
+- Working on classes and projects for the MVA coursework (trying to level up as much as I can hehe)
+- Reimplementing [Hyperspherical Variational Auto-Encoders](https://arxiv.org/abs/1804.00891)
+- Reimplementing [scVI](https://www.nature.com/articles/s41592-018-0229-2) and [scVAE](https://academic.oup.com/bioinformatics/article/36/16/4415/5838187?login=false)
+- Working on the [2025 Virtual Cell Challenge](https://virtualcellchallenge.org/app)
+###
+
 <h3 align="left">🤓😁Cool stuff :</h4>
 
 ###
@@ -83,16 +92,6 @@ I am fascinated by these research fields (lot of work ahead to truly get there t
 
 
 ###
-###
-
-<h3 align="left">🧪⌨️Current projects :</h4>
-
-###
-- Working on classes and projects for the MVA coursework (trying to level up as much as I can hehe)
-- Reimplementing [Hyperspherical Variational Auto-Encoders](https://arxiv.org/abs/1804.00891)
-- Reimplementing [scVI](https://www.nature.com/articles/s41592-018-0229-2) and [scVAE](https://academic.oup.com/bioinformatics/article/36/16/4415/5838187?login=false)
-- Working on the [2025 Virtual Cell Challenge](https://virtualcellchallenge.org/app)
-
 ###
 
 <h2 align="left">📫Contacts :</h4>
