@@ -5,18 +5,17 @@
 I'm deeply interested in the potential of AI in Biology and Health. I also have a keen interest for Bioinformatics.
 I've always been drawn to the intersection of computational methods with biological questions and challenges.<br><br>  
 Currently following the MVA Master program at ENS Paris-Saclay where I'll be focusing more on the maths behind ML and reinforce my knowledge and skills to prepare for a future PhD. 
-Here are the classes I am taking this semester: 
+Here are the classes I am taking for the first part of the semester: 
 - Optimal Transport by Gabriel Peyré & Julie Delon
 - Computational Statistics by Stéphanie Allassonière
 - Geometric Data Analysis by Jean Feydy
 - Introduction to Probabilistic Models and deep generative models by Pierre Latouche & Pierre-Alexandre Mattei
 - ALTEGRAD (NLP and Graphs) by Michalis Vazirgiannis
-- Fondamentals of Reproducible Research & Open source software by Miguel Colom
 
 I previously completed an MSc in Artificial Intelligence and Computational Biology at [Paris-Saclay University](https://www.universite-paris-saclay.fr/en/) and [AgroParisTech Engineering School](https://www.agroparistech.fr/en). My thirst for new knowledge and skills is stronger than ever !<br><br>
 I am constantly trying to improve my data science and programming skills which makes me eager to contribute to impactful and ground-breaking projects involving AI and/or Bioinformatics.  
 I am fascinated by these research fields (lot of work ahead to truly get there though 🤓):
-- Generative and foundation models for biology (AI powered Virtual Cells, Protein Language Models, Cell differenciation stage identification, etc..)
+- Generative and foundation models for biology (AI powered Virtual Cells, Protein Language Models, Cell differenciation stage identification and path generation, etc..)
 - Multi-Modal Representation Learning
 - AI4Health
 - AI4Science
