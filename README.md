@@ -4,7 +4,7 @@
 
 I'm deeply interested in the potential of AI in Biology and Health. I also have a keen interest for Bioinformatics.
 I've always been drawn to the intersection of computational methods with biological questions and challenges.<br><br>  
-Currently following the MVA Master program at ENS Paris-Saclay where I'll be focusing more on the maths behind ML and reinforce my knowledge and skills to prepare for a future PhD. 
+Currently following the [MVA Master](https://www.master-mva.com/) program at ENS Paris-Saclay & Paris-Cité University where I'll be focusing more on the maths behind ML and reinforce my knowledge and skills to prepare for a future PhD. 
 Here are the classes I am taking for the first part of the semester: 
 - Optimal Transport by Gabriel Peyré & Julie Delon
 - Computational Statistics by Stéphanie Allassonière
