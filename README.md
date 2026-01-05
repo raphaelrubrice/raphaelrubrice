@@ -1,24 +1,47 @@
 <h1 align="left">Hi, I'm Raphaël Rubrice !</h1>
 
+*Currently seeking a Master's thesis position (April–October 2026) in generative modeling for biology and/or biomedical discovery.*
+
 ###
+<div align="left">
+  <img src="https://img.shields.io/badge/-Biology-388E3C?style=flat" />
+  <img src="https://img.shields.io/badge/-Health-D32F2F?style=flat" />
+  <img src="https://img.shields.io/badge/-Machine%20Learning-1565C0?style=flat" />
+  <img src="https://img.shields.io/badge/-Mathematics-6A1B9A?style=flat" />
+</div>
 
-I'm deeply interested in the potential of AI in Biology and Health. I also have a keen interest for Bioinformatics.
-I've always been drawn to the intersection of computational methods with biological questions and challenges.<br><br>  
-Currently following the [MVA Master](https://www.master-mva.com/) program at ENS Paris-Saclay & Paris-Cité University where I'll be focusing more on the maths behind ML and reinforce my knowledge and skills to prepare for a future PhD. 
-Here are the classes I am taking for the first part of the semester: 
-- Optimal Transport by Gabriel Peyré & Julie Delon
-- Computational Statistics by Stéphanie Allassonière
-- Geometric Data Analysis by Jean Feydy
-- Introduction to Probabilistic Models and deep generative models by Pierre Latouche & Pierre-Alexandre Mattei
-- ALTEGRAD (NLP and Graphs) by Michalis Vazirgiannis
+<br>
 
-I previously completed an MSc in Artificial Intelligence and Computational Biology at [Paris-Saclay University](https://www.universite-paris-saclay.fr/en/) and [AgroParisTech Engineering School](https://www.agroparistech.fr/en). My thirst for new knowledge and skills is stronger than ever !<br><br>
-I am constantly trying to improve my data science and programming skills which makes me eager to contribute to impactful and ground-breaking projects involving AI and/or Bioinformatics.  
+I'm a Master's student at the intersection of **computational biology** and **machine learning**, specializing in generative models for biological systems.
+
+<br>
+
+Currently following the [MVA Master](https://www.master-mva.com/) program at ENS Paris-Saclay & Paris-Cité University where I'm focusing on the mathematics behind ML and reinforcing my knowledge and skills to prepare for a future PhD in **AI for Biology and/or Biomedical discovery**.
+
+Here are the classes I took for the first semester (Fall 2025): 
+- **Optimal Transport** by Gabriel Peyré & Julie Delon
+- **Computational Statistics** by Stéphanie Allassonière
+- **Geometric Data Analysis** by Jean Feydy
+- Introduction to **Probabilistic Graphical Models** and deep generative models by Pierre Latouche & Pierre-Alexandre Mattei
+- ALTEGRAD **(NLP and Graphs)** by Michalis Vazirgiannis
+
+**Spring 2026 courses I will take:**
+- **Stochastic Calculus** for Generative Modeling by Alain Durmus
+- Algorithms and Learning for **Protein Science** by Frédéric Cazals
+- **Reinforcement Learning** by D. Basu, E. Kaufmann & O. Maillard
+- **Graphs in Machine Learning** by Michal Valko
+- **Generative Models for Imaging** by B. Galerne & A. Leclaire
+- **Representation Learning** for Computer Vision and Medical Imaging by Pietro Gori & Loïc Le Folgoc
+
+I previously completed an MSc in Artificial Intelligence and Computational Biology at [Paris-Saclay University](https://www.universite-paris-saclay.fr/en/) and [AgroParisTech](https://www.agroparistech.fr/en).<br><br>
+
+I am constantly trying to improve my data science and programming skills which makes me eager to contribute to impactful and ground-breaking projects involving AI and computational biology.
+
 I am fascinated by these research fields (lot of work ahead to truly get there though 🤓):
-- Generative and foundation models for biology (AI powered Virtual Cells, Protein Language Models, Cell differenciation stage identification and path generation, etc..)
-- Multi-Modal Representation Learning
-- AI4Health
-- AI4Science
+- **Single-cell & spatial biology**: Latent diffusion models (scLDM), perturbation prediction, generative models for cellular dynamics
+- **Foundation models for biology**: Protein language models, multi-omic integration, virtual cell systems
+- **Geometric & generative ML**: Optimal transport, diffusion models, representation learning for biological data
+- **AI for precision medicine**: Multi-modal integration for patient stratification and biomarker discovery
 
 <h4 align="left">💻Operating Systems I've worked with :</h4>
 
@@ -70,24 +93,24 @@ I am fascinated by these research fields (lot of work ahead to truly get there t
 ###
 ###
 
-<h3 align="left">🧪⌨️Current projects :</h4>
+<h3 align="left">🧪⌨️Current/Recent projects :</h4>
 
 ###
-- Studying [Hyperspherical Variational Auto-Encoders](https://arxiv.org/abs/1804.00891)
-- Studying [scVI](https://www.nature.com/articles/s41592-018-0229-2) and [scVAE](https://academic.oup.com/bioinformatics/article/36/16/4415/5838187?login=false)
-- Studying [Cross-Modality Matching with GWOT](https://arxiv.org/pdf/2405.00838)
-- Working on the [2025 Virtual Cell Challenge](https://virtualcellchallenge.org/app)
+- Studied [Hyperspherical Variational Auto-Encoders](https://arxiv.org/abs/1804.00891) -> [Our repo](https://github.com/raphaelrubrice/HVAE)
+- Studied [scVAE](https://academic.oup.com/bioinformatics/article/36/16/4415/5838187?login=false) -> [Our repo](https://github.com/raphaelrubrice/scVAE_mva2025)
+- Studied [Cross-Modality Matching with GWOT](https://arxiv.org/pdf/2405.00838)
 ###
 
 <h3 align="left">🤓😁Cool stuff :</h4>
 
 ###
-- Got accepted into ENS Paris-Saclay's MVA coursework (really excited)
-- Published in the Journal Artificial Intelligence in the Life Sciences : [A machine learning framework for the prediction and analysis of bacterial antagonism in biofilms using morphological descriptors](https://www.sciencedirect.com/science/article/pii/S2667318525000133?via%3Dihub)
-- Got an internship at Dassault Systèmes, the topic ? Explainable clustering for clinical data
-- Our main project of the year during IODAA got accepted for presentation at the 1st AI for Animal Science Conference at ETH Zurich (2025)
-- With a few friends from AgroParisTech, we won the AI Methodology Award at the 2025 Owkin & Servier AI Hackathon for Glioblastoma Research
-- Gave a presentation at the Micalis Institute on the work I've done on the biofilm antagonism prediction model
+- Got accepted into **ENS Paris-Saclay's MVA** coursework (really excited)
+- Laureate of the **PR[AI]RIE Institute Excellence Scholarship** (huge support throughout the year)
+- **Published** in the Journal Artificial Intelligence in the Life Sciences : [A machine learning framework for the prediction and analysis of bacterial antagonism in biofilms using morphological descriptors](https://www.sciencedirect.com/science/article/pii/S2667318525000133?via%3Dihub)
+- Got an internship at **Dassault Systèmes**, the topic ? Explainable clustering for clinical data
+- Our main project of the year during IODAA got accepted for presentation at the **1st AI for Animal Science Conference at ETH Zurich (2025)**
+- With a few friends from AgroParisTech, we won the **AI Methodology Award** at the 2025 **Owkin & Servier AI Hackathon for Glioblastoma Research**
+- Gave a presentation at the **Micalis Institute** on the work I've done on the biofilm antagonism prediction model
 
 
 ###
@@ -97,9 +120,15 @@ I am fascinated by these research fields (lot of work ahead to truly get there t
 
 ###
 
+<a href="mailto:raphael.rubrice@ens-paris-saclay.fr">
+  <img src="https://img.shields.io/badge/Email-388E3C?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email" />
+</a>
+
+<br>
+
 <a href="https://www.linkedin.com/in/raphaël-rubrice" title="My LinkedIn Profile"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo" /></a>
-<a href="mailto:raphael.rubrice@outlook.com" title="My email"><img src="README_icons/outlook.png" height="40" alt="outlook logo" /></a>
 
 ###
 ###
 
+---
