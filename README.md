@@ -38,9 +38,9 @@ I previously completed an MSc in Artificial Intelligence and Computational Biolo
 I am constantly trying to improve my data science and programming skills which makes me eager to contribute to impactful and ground-breaking projects involving AI and computational biology.
 
 I am fascinated by these research fields (lot of work ahead to truly get there though 🤓):
-- **Single-cell & spatial biology**: Latent diffusion models (scLDM), perturbation prediction, generative models for cellular dynamics
-- **Foundation models for biology**: Protein language models, multi-omic integration, virtual cell systems
-- **Geometric & generative ML**: Optimal transport, diffusion models, representation learning for biological data
+- **Single-cell & spatial biology**: Latent diffusion models (e.g scLDM, SquiDiff), perturbation prediction (e.g, STATE), generative models for cellular dynamics
+- **Foundation models for biology**: Protein language models (e.g, BoltzGen), multi-omic integration, virtual cell systems
+- **Geometric & generative ML**: Optimal transport (e.g, GWOT, GrALe), diffusion models, representation learning for biological data
 - **AI for precision medicine**: Multi-modal integration for patient stratification and biomarker discovery
 
 <h4 align="left">💻Operating Systems I've worked with :</h4>
