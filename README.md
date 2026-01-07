@@ -1,12 +1,12 @@
 <h1 align="left">Hi, I'm Raphaël Rubrice !</h1>
 
-*Currently seeking a Master's thesis position (April–October 2026) in generative modeling for biology and/or biomedical discovery.*
+*Currently seeking an internship in generative modeling for biology and/or biomedical discovery for my Master's thesis (April–October 2026).*
 
 ###
 <div align="left">
+  <img src="https://img.shields.io/badge/-Machine%20Learning-1565C0?style=flat" />
   <img src="https://img.shields.io/badge/-Biology-388E3C?style=flat" />
   <img src="https://img.shields.io/badge/-Health-D32F2F?style=flat" />
-  <img src="https://img.shields.io/badge/-Machine%20Learning-1565C0?style=flat" />
   <img src="https://img.shields.io/badge/-Mathematics-6A1B9A?style=flat" />
 </div>
 
