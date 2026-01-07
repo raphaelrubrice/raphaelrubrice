@@ -4,10 +4,10 @@
 
 ###
 <div align="left">
-  <img src="https://img.shields.io/badge/-Machine%20Learning-1565C0?style=flat" />
-  <img src="https://img.shields.io/badge/-Biology-388E3C?style=flat" />
-  <img src="https://img.shields.io/badge/-Health-D32F2F?style=flat" />
-  <img src="https://img.shields.io/badge/-Mathematics-6A1B9A?style=flat" />
+  <img src="https://img.shields.io/badge/-Machine%20Learning-004B23?style=flat" />
+  <img src="https://img.shields.io/badge/-Biology-007200?style=flat" />
+  <img src="https://img.shields.io/badge/-Health-38B000?style=flat" />
+  <img src="https://img.shields.io/badge/-Mathematics-CCFF33?style=flat" />
 </div>
 
 <br>
