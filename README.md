@@ -26,7 +26,6 @@ Here are the classes I took for the first semester (Fall 2025):
 - ALTEGRAD **(NLP and Graphs)** by Michalis Vazirgiannis
 
 **Spring 2026 courses I will take:**
-- **Stochastic Calculus** for Generative Modeling by Alain Durmus
 - Algorithms and Learning for **Protein Science** by Frédéric Cazals
 - **Reinforcement Learning** by D. Basu, E. Kaufmann & O. Maillard
 - **Graphs in Machine Learning** by Michal Valko
