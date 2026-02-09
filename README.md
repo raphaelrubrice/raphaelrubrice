@@ -126,8 +126,6 @@ I am fascinated by these research fields (lot of work ahead to truly get there t
 
 <a href="https://www.linkedin.com/in/raphaël-rubrice" title="My LinkedIn Profile"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo" /></a>
 
-<br>
-
 <a href="https://scholar.google.fr/citations?user=PUZ9_HcAAAAJ&hl=fr&authuser=1&oi=ao" title="My Google Scholar Profile"><img src="https://cdn.simpleicons.org/googlescholar/4285F4" height="40" alt="googlescholar logo" /></a>
 ###
 ###
