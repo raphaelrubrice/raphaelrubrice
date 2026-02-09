@@ -27,7 +27,6 @@ Here are the classes I took for the first semester (Fall 2025):
 
 **Spring 2026 courses I will take:**
 - Algorithms and Learning for **Protein Science** by Frédéric Cazals
-- **Reinforcement Learning** by D. Basu, E. Kaufmann & O. Maillard
 - **Graphs in Machine Learning** by Michal Valko
 - **Generative Models for Imaging** by B. Galerne & A. Leclaire
 - **Representation Learning** for Computer Vision and Medical Imaging by Pietro Gori & Loïc Le Folgoc
@@ -127,6 +126,9 @@ I am fascinated by these research fields (lot of work ahead to truly get there t
 
 <a href="https://www.linkedin.com/in/raphaël-rubrice" title="My LinkedIn Profile"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo" /></a>
 
+<br>
+
+<a href="https://scholar.google.fr/citations?user=PUZ9_HcAAAAJ&hl=fr&authuser=1&oi=ao" title="My Google Scholar Profile"><img src="[https://skillicons.dev/icons?i=linkedin](https://img.icons8.com/ios-filled/50/google-scholar--v2.png)" height="40" alt="googlescholar logo" /></a>
 ###
 ###
 
