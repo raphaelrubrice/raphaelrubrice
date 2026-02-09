@@ -128,7 +128,7 @@ I am fascinated by these research fields (lot of work ahead to truly get there t
 
 <br>
 
-<a href="https://scholar.google.fr/citations?user=PUZ9_HcAAAAJ&hl=fr&authuser=1&oi=ao" title="My Google Scholar Profile"><img src="[https://skillicons.dev/icons?i=linkedin](https://img.icons8.com/ios-filled/50/google-scholar--v2.png)" height="40" alt="googlescholar logo" /></a>
+<a href="https://scholar.google.fr/citations?user=PUZ9_HcAAAAJ&hl=fr&authuser=1&oi=ao" title="My Google Scholar Profile"><img src="https://cdn.simpleicons.org/googlescholar/4285F4" height="40" alt="googlescholar logo" /></a>
 ###
 ###
 
