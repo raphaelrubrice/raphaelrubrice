@@ -27,7 +27,7 @@ Here are the classes I took for the first semester (Fall 2025):
 
 **Spring 2026 courses I will take:**
 - Algorithms and Learning for **Protein Science** by Frédéric Cazals
-- **Graphs in Machine Learning** by Michal Valko
+- **Graphs in Machine Learning** by Daniele Calendriello
 - **Generative Models for Imaging** by B. Galerne & A. Leclaire
 - **Representation Learning** for Computer Vision and Medical Imaging by Pietro Gori & Loïc Le Folgoc
 
