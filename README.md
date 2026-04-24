@@ -1,6 +1,6 @@
 <h1 align="left">Hi, I'm Raphaël Rubrice !</h1>
 
-*Currently seeking an internship in generative modeling for biology and/or biomedical discovery for my Master's thesis (April–October 2026).*
+
 
 ###
 <div align="left">
