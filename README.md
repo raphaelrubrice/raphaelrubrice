@@ -16,20 +16,7 @@ I'm a Master's student at the intersection of **computational biology** and **ma
 
 <br>
 
-Currently following the [MVA Master](https://www.master-mva.com/) program at ENS Paris-Saclay & Paris-Cité University where I'm focusing on the mathematics behind ML and reinforcing my knowledge and skills to prepare for a future PhD in **AI for Biology and/or Biomedical discovery**.
-
-Here are the classes I took for the first semester (Fall 2025): 
-- **Optimal Transport** by Gabriel Peyré & Julie Delon
-- **Computational Statistics** by Stéphanie Allassonière
-- **Geometric Data Analysis** by Jean Feydy
-- Introduction to **Probabilistic Graphical Models** and deep generative models by Pierre Latouche & Pierre-Alexandre Mattei
-- ALTEGRAD **(NLP and Graphs)** by Michalis Vazirgiannis
-
-**Spring 2026 courses I will take:**
-- Algorithms and Learning for **Protein Science** by Frédéric Cazals
-- **Graphs in Machine Learning** by Daniele Calendriello
-- **Generative Models for Imaging** by B. Galerne & A. Leclaire
-- **Representation Learning** for Computer Vision and Medical Imaging by Pietro Gori & Loïc Le Folgoc
+Currently finishing the [MVA Master](https://www.master-mva.com/) program at ENS Paris-Saclay & Paris-Cité University where I'm focusing on the mathematics behind ML and reinforcing my knowledge and skills to prepare for a future PhD in **AI for Biology and/or Biomedical discovery**.
 
 I previously completed an MSc in Artificial Intelligence and Computational Biology at [Paris-Saclay University](https://www.universite-paris-saclay.fr/en/) and [AgroParisTech](https://www.agroparistech.fr/en).<br><br>
 
@@ -37,7 +24,7 @@ I am constantly trying to improve my data science and programming skills which m
 
 I am fascinated by these research fields (lot of work ahead to truly get there though 🤓):
 - **Single-cell & spatial biology**: Latent diffusion models (e.g scLDM, SquiDiff), perturbation prediction (e.g, STATE), generative models for cellular dynamics
-- **Foundation models for biology**: Protein language models (e.g, BoltzGen), multi-omic integration, virtual cell systems
+- **Foundation & Generative models for biology**: Protein language models (e.g, BoltzGen), multi-omic integration, virtual cell systems
 - **Geometric & generative ML**: Optimal transport (e.g, GWOT, GrALe), diffusion models, representation learning for biological data
 - **AI for precision medicine**: Multi-modal integration for patient stratification and biomarker discovery
 
@@ -102,8 +89,9 @@ I am fascinated by these research fields (lot of work ahead to truly get there t
 <h3 align="left">🤓😁Cool stuff :</h4>
 
 ###
-- Got accepted into **ENS Paris-Saclay's MVA** coursework (really excited)
-- Laureate of the **PR[AI]RIE Institute Excellence Scholarship** (huge support throughout the year)
+- Master's thesis in the **TheisLab @ Helmoltz Munich** 
+- Got accepted into **ENS Paris-Saclay's MVA** coursework
+- Laureate of the **PR[AI]RIE Institute Excellence Scholarship**
 - **Published** in the Journal Artificial Intelligence in the Life Sciences : [A machine learning framework for the prediction and analysis of bacterial antagonism in biofilms using morphological descriptors](https://www.sciencedirect.com/science/article/pii/S2667318525000133?via%3Dihub)
 - Got an internship at **Dassault Systèmes**, the topic ? Explainable clustering for clinical data
 - Our main project of the year during IODAA got accepted for presentation at the **1st AI for Animal Science Conference at ETH Zurich (2025)**
