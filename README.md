@@ -89,6 +89,8 @@ I am fascinated by these research fields (lot of work ahead to truly get there t
 <h3 align="left">🤓😁Cool stuff :</h4>
 
 ###
+- Received the **Impact+ Doctoral Scholarship**
+- Accepted for a **PhD at Université de Montréal (Guy Wolf's lab @ Mila)**
 - Master's thesis in the **TheisLab @ Helmoltz Munich** 
 - Got accepted into **ENS Paris-Saclay's MVA** coursework
 - Laureate of the **PR[AI]RIE Institute Excellence Scholarship**
