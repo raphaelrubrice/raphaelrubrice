@@ -12,7 +12,7 @@
 
 <br>
 
-Fabian Theis Lab @ Helmholtz Munich and Guy Wolf Lab @ Mila. Currently focusing on AI-assisted experimental design and Virtual cell and tissue modeling. 
+**[Fabian Theis Lab](https://github.com/theislab) @ Helmholtz Munich and [Guy Wolf Lab](https://guywolf.org/) @ Mila**. AI-assisted experimental design, Virtual cell and tissue modeling.
 
 <h4 align="left">💻Operating Systems I've worked with :</h4>
 
