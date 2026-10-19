@@ -12,21 +12,9 @@
 
 <br>
 
-I'm a Master's student at the intersection of **computational biology** and **machine learning**, specializing in generative models for biological systems.
+Fabian Theis Lab @ Helmholtz Munich and Guy Wolf Lab @ Mila. Currently focusing on AI-assisted experimental design and Virtual cell and tissue modeling. 
 
 <br>
-
-Currently finishing the [MVA Master](https://www.master-mva.com/) program at ENS Paris-Saclay & Paris-Cité University where I'm focusing on the mathematics behind ML and reinforcing my knowledge and skills to prepare for a future PhD in **AI for Biology and/or Biomedical discovery**.
-
-I previously completed an MSc in Artificial Intelligence and Computational Biology at [Paris-Saclay University](https://www.universite-paris-saclay.fr/en/) and [AgroParisTech](https://www.agroparistech.fr/en).<br><br>
-
-I am constantly trying to improve my data science and programming skills which makes me eager to contribute to impactful and ground-breaking projects involving AI and computational biology.
-
-I am fascinated by these research fields (lot of work ahead to truly get there though 🤓):
-- **Single-cell & spatial biology**: Latent diffusion models (e.g scLDM, SquiDiff), perturbation prediction (e.g, STATE), generative models for cellular dynamics
-- **Foundation & Generative models for biology**: Protein language models (e.g, BoltzGen), multi-omic integration, virtual cell systems
-- **Geometric & generative ML**: Optimal transport (e.g, GWOT, GrALe), diffusion models, representation learning for biological data
-- **AI for precision medicine**: Multi-modal integration for patient stratification and biomarker discovery
 
 <h4 align="left">💻Operating Systems I've worked with :</h4>
 
