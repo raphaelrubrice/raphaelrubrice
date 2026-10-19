@@ -67,9 +67,9 @@ Fabian Theis Lab @ Helmholtz Munich and Guy Wolf Lab @ Mila. Currently focusing 
 <h3 align="left">🧪⌨️Current/Recent projects :</h4>
 
 ###
-- Studied [Hyperspherical Variational Auto-Encoders](https://arxiv.org/abs/1804.00891) -> [Our repo](https://github.com/raphaelrubrice/HVAE)
-- Studied [scVAE](https://academic.oup.com/bioinformatics/article/36/16/4415/5838187?login=false) -> [Our repo](https://github.com/raphaelrubrice/scVAE_mva2025)
-- Studied [Cross-Modality Matching with GWOT](https://arxiv.org/pdf/2405.00838)
+- [MVA25-26] Studied [Hyperspherical Variational Auto-Encoders](https://arxiv.org/abs/1804.00891) -> [Our repo](https://github.com/raphaelrubrice/HVAE)
+- [MVA25-26] Studied [scVAE](https://academic.oup.com/bioinformatics/article/36/16/4415/5838187?login=false) -> [Our repo](https://github.com/raphaelrubrice/scVAE_mva2025)
+- [MVA25-26] Studied [Cross-Modality Matching with GWOT](https://arxiv.org/pdf/2405.00838)
 ###
 
 <h3 align="left">🤓😁Cool stuff :</h4>
